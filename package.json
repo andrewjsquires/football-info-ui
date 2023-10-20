@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/accordion": "^2.0.23",
     "@nextui-org/button": "2.0.18",
     "@nextui-org/code": "2.0.16",
     "@nextui-org/input": "2.1.6",
@@ -25,6 +26,7 @@
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
+    "aws-amplify": "^5.3.11",
     "clsx": "^2.0.0",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
